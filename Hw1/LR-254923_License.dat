@@ -1,0 +1,57 @@
+﻿# Intel Corporation Software and/or Intellectual Property License File
+# Issued 24 September 2025
+# Upgrade to these products will no longer be available after the Maintenance Expiration  
+# date unless licenses are renewed.  
+# Fixed Node License
+# Primary Machine Name-Leo's Computer
+# Primary Machine ID-NIC ID F020FF44CEEB
+# Companion ID-N/A
+# Companion ID 2-N/A
+# Product License Summary:
+# 3 Questa*- FPGA Starter Edition (License: SW-QUESTA), 1 Seat(s)
+# - Maintenance Expiration of 2026.09
+# - License Expires 24-Sep-2026
+# 3 Questa*- FPGA Starter Edition (License: SW-QUESTA), 1 Seat(s)
+# - Maintenance Expiration of 2026.09
+# - License Expires 24-Sep-2026
+# 3 Questa*- FPGA Starter Edition (License: SW-QUESTA), 1 Seat(s)
+# - Maintenance Expiration of 2026.09
+# - License Expires 24-Sep-2026
+################################################################################ 
+# FEATURE START 
+# This is license file for Questasim*-Intel FPGA Starter Edition 
+# Number of seat licenses is 1 
+# License Expires 24-Sep-2026 
+DAEMON mgcld path_to_mgcld
+INCREMENT intelqsimstarter mgcld 2026.09 24-sep-2026 uncounted \
+    FFEB41B8AC1E361D4876 VENDOR_STRING=29C97353 HOSTID=f020ff44ceeb \
+    ISSUER=Intel SN=299439859 SIGN2="134D 4452 27F2 64D3 112E A676 B4C6 \
+    A1C5 16D2 78AA 5BBA 3CC5 FFAE 23D2 23AE 1624 348D 85ED 1CEA 1936 F441 \
+    36B1 B00D 4653 1CD4 7C75 AC3C 2D69 F14D 2D8F"
+# FEATURE END 
+################################################################################
+# FEATURE START 
+# This is license file for Questasim*-Intel FPGA Starter Edition 
+# Number of seat licenses is 1 
+# License Expires 24-Sep-2026 
+DAEMON mgcld path_to_mgcld
+INCREMENT intelqsimstarter mgcld 2026.09 24-sep-2026 uncounted \
+    EFFB5118AD31361D4776 VENDOR_STRING=29C97353 HOSTID=f020ff44ceeb \
+    ISSUER=Intel SN=199438647 SIGN2="012C A90B 676A 65E4 A717 5A20 17EB \
+    627F 3239 F18C A14F CEC1 A512 6048 4A6E 0F49 C495 25A6 3074 8D04 8106 \
+    ACDA DC20 2E17 D15D 35B0 3BEF 6CFA F133 8CEF"
+# FEATURE END 
+################################################################################
+# FEATURE START 
+# This is license file for Questasim*-Intel FPGA Starter Edition 
+# Number of seat licenses is 1 
+# License Expires 24-Sep-2026 
+DAEMON mgcld path_to_mgcld
+INCREMENT intelqsimstarter mgcld 2026.09 24-sep-2026 uncounted \
+    FFCB5118AD31361D5476 VENDOR_STRING=29C97353 HOSTID=f020ff44ceeb \
+    ISSUER=Intel SN=199438648 SIGN2="1A88 5B75 BEEC D990 FEED DD54 D358 \
+    852E 1B64 ED8C 7F70 5702 E202 155A D0AF 10A9 5CCB B865 9EDA 3377 C311 \
+    CEA9 B831 4FCF 7342 65CB 9A24 BE6C CA4F 1B8F"
+# FEATURE END 
+################################################################################
+# End of Intel Corporation Software and/or Intellectual Property License File. Issued 09/24/2025

@@ -1,0 +1,142 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yuyan/OneDrive/Desktop/EE6370/Hw7
+vmain
+Z1 !s110 1762991114
+!i10b 1
+!s100 90mXD;[abaf=VM<Ug[njA0
+Ij@=Ji:a87OK9Rf[=K4lV22
+R0
+Z2 w1762986196
+Z3 8main_E.v
+Z4 Fmain_E.v
+!i122 0
+L0 12 24
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z7 !s108 1762991113.000000
+!s107 tb_bubblesort.v|main_E.v|
+Z8 !s90 -reportprogress|300|main_E.v|tb_bubblesort.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vmain_dat
+R1
+!i10b 1
+!s100 coUV9X3igMHJcWhk?ZIOD0
+Ii@D2TandGVi8He?H[MYd90
+R0
+R2
+R3
+R4
+!i122 0
+L0 104 108
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 tb_bubblesort.v|main_E.v|
+R8
+!i113 0
+R9
+R10
+vmain_decr3u
+R1
+!i10b 1
+!s100 RV3R]:nFHX?Xm[Tf:5^L60
+IhFSjaK:OQbo1N288cU[c01
+R0
+R2
+R3
+R4
+!i122 0
+L0 213 7
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vmain_fsm
+R1
+!i10b 1
+!s100 N3RF`Nd8b`0zk2bT:Yo]10
+IlSdk^RPhg9ShFcY`He1YK3
+R0
+R2
+R3
+R4
+!i122 0
+L0 37 66
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vmain_gop3u_1
+R1
+!i10b 1
+!s100 :1hF2PHI>6ClNM^7[NYUg0
+IYY6X2I:UNA9a_B<alTN>c2
+R0
+R2
+R3
+R4
+!i122 0
+L0 229 10
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vmain_incr3u
+R1
+!i10b 1
+!s100 ncTh@37=ibHNVNV2Xn7UP3
+I`7k^CoecIzNGcQVXD3Ad:0
+R0
+R2
+R3
+R4
+!i122 0
+L0 221 7
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
